@@ -18,6 +18,7 @@ The STL files include the designs for the 3D-printed components of the installat
 ●	**Push_push_mechanism:** Push-push mechanism to hold the records at their highest place with a quick release. <br/>
 ●	**Vacuum_box:** Vacuum chamber for thermoforming. <br/>
 ●	**Z-movement:** Components for holding lineair bearings, connecting to the levers and holding guiding rods. <br/>
+●	**Sticker applicator:** A small tool for easily applying your custom labels to the vinyl records. <br/>
 
 ### Arduino Code
 The Arduino code controls the electronics and functionality of the installation:
