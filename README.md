@@ -34,7 +34,7 @@ The Arduino code controls the electronics and functionality of the installation:
   &emsp; ○	Adds a safety mechanism using a limit switch. <br/>
 
 ### Affinity files
-Both the PDF and affinity files have been made available to adapt as promotional material
+Both the PDF and affinity files of the stickers and poster have been made available to adapt as promotional material
 
 ## Credits
 This project was developed by: <br/>
