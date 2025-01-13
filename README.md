@@ -6,6 +6,8 @@
 
 ![Nerdland Thermoformer](https://github.com/RubenVerscheure/Nerdlandstand/blob/main/HQ_Images/Full_machine.jpg?raw=true)
 
+## A short promo video
+(https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
 
 ## File overview
 This Github provides access to all STL files and code to build, repair and upgrade the vinyl disc thermoformer
