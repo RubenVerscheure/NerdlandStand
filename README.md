@@ -29,7 +29,10 @@ The Arduino code controls the electronics and functionality of the installation:
 **●	Warmte_circuit_Final:** <br/>
   &emsp; ○	Controls the heating element (on/off). <br/>
   &emsp; ○	Adds a safety mechanism using a limit switch. <br/>
-  
+
+### Affinity files
+Both the PDF and affinity files have been made available to adapt as promotional material
+
 ## Credits
 This project was developed by: <br/>
 ●	Charlie De Breuck <br/>
