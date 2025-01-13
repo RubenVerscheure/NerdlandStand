@@ -4,6 +4,9 @@
 ##### The installation is designed with the festival audience in mind: a diverse mix of nerds, makers, and families with children. It aims to provide visitors with a fun, memorable experience in a short timeframe, and potentially even a tangible keepsake from their visit.
 ##### Learn more about the festival here: [Nerdland Festival](https://nerdland.be/)
 
+![Nerdland Thermoformer](https://github.com/RubenVerscheure/Nerdlandstand/blob/main/HQ_Images/Full_machine.jpg?raw=true)
+
+
 ## File overview
 This Github provides access to all STL files and code to build, repair and upgrade the vinyl disc thermoformer
 
